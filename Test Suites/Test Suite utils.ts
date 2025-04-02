@@ -15,7 +15,7 @@
       <guid>09fb3226-22d5-4af6-abf5-4af33c2ab402</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Utils/Test Case 001 API Response Time Validation</testCaseId>
+      <testCaseId>Test Cases/Utils/Test Case 001 Multiple APIs Response Time Validation 02042025</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
