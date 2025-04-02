@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description></description>
+   <name>Test Case 003 Checkout with Cash (1)</name>
+    <tag></tag>
+    <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>824b90ce-0fa9-11f0-9390-e342dc1b9925</testCaseGuid>
+</TestCaseEntity>
