@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
+    <description></description>
    <name>healthcare-tests - TS_RegressionTest</name>
-   <tag></tag>
+    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
+    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
@@ -18,15 +18,15 @@
       <testCaseId>Test Cases/Utils/Test Case 002 Add Item to Shopping Cart Renaming</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
+          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
-         <value></value>
+          <value></value>
          <variableId>14d98e7b-4ac8-4e28-8ce7-394001d188f0</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
+          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
-         <value></value>
+          <value></value>
          <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
       </variableLink>
    </testCaseLink>

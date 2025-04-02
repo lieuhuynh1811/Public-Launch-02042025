@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
+    <description></description>
    <name>Test Suite utils</name>
-   <tag></tag>
+    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
+    <mailRecipient></mailRecipient>
    <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
@@ -18,15 +18,15 @@
       <testCaseId>Test Cases/Utils/Test Case 001 API Response Time Validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
+          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
-         <value></value>
+          <value></value>
          <variableId>19fe967b-1564-4705-aff2-848d45b84489</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
+          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
-         <value></value>
+          <value></value>
          <variableId>75fa3d79-7e92-4d55-b359-f7c9493ea288</variableId>
       </variableLink>
    </testCaseLink>
