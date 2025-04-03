@@ -15,7 +15,7 @@
       <guid>b5bd2910-8c3c-4022-909d-c66fc36eb6d6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Purchase/Test Case 002 Add Item to Shopping Cart</testCaseId>
+      <testCaseId>Test Cases/Purchase/Test Case 002 Add Item to Shopping Cart Renaming</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
