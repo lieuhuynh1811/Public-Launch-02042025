@@ -41,7 +41,7 @@
       <guid>955abe25-4029-43e2-b02f-57315c1ade49</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Purchase/Test Case 003 Checkout with Cash</testCaseId>
+      <testCaseId>Test Cases/Utils/Test Case 003 Checkout with Cash</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
