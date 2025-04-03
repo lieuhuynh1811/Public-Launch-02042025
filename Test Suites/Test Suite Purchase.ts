@@ -34,14 +34,14 @@
       <guid>4e79b681-775c-4950-ace0-3c68c95da935</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Purchase/Test Case 003 Checkout with Cash</testCaseId>
+      <testCaseId>Test Cases/Utils/Test Case 003 Checkout with Cash</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>18390000-bce7-431c-b6b6-9e4a7b1e29a9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Purchase/Test Case 004 Login with Invalid Password</testCaseId>
+      <testCaseId>Test Cases/Utils/Test Case 004 Login with Invalid Password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
