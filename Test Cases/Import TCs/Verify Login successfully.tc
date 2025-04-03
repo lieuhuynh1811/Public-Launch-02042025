@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description>Login</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify Login successfully</name>
+    <testCaseGuid>b52fd720-1379-45ed-b5de-3740c7224b94</testCaseGuid>
+</TestCaseEntity>
+

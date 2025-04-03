@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description>Logout</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify Logout successfully</name>
+    <testCaseGuid>696967f0-a874-4037-9180-1a9ac52143bd</testCaseGuid>
+</TestCaseEntity>
+
