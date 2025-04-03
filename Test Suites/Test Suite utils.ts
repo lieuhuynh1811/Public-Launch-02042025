@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <TestSuiteEntity>
-    <name>Test Suite utils</name>
-    <description></description>
-    <tag></tag>
-    <isRerun>false</isRerun>
-    <mailRecipient></mailRecipient>
-    <numberOfRerun>3</numberOfRerun>
-    <pageLoadTimeout>30</pageLoadTimeout>
-    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
-    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-    <rerunImmediately>true</rerunImmediately>
-    <testSuiteGuid>6e178b0e-e6cf-4bc2-9bde-907a5df7bfd8</testSuiteGuid>
+   <name>Test Suite utils</name>
+   <description></description>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6e178b0e-e6cf-4bc2-9bde-907a5df7bfd8</testSuiteGuid>
 </TestSuiteEntity>
-
