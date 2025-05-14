@@ -11,23 +11,4 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>6e178b0e-e6cf-4bc2-9bde-907a5df7bfd8</testSuiteGuid>
-   <testCaseLink>
-      <guid>09fb3226-22d5-4af6-abf5-4af33c2ab402</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Utils/Test Case 001 Multiple APIs Response Time Validation 02042025</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>19fe967b-1564-4705-aff2-848d45b84489</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>75fa3d79-7e92-4d55-b359-f7c9493ea288</variableId>
-      </variableLink>
-   </testCaseLink>
 </TestSuiteEntity>
